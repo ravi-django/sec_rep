@@ -1,0 +1,29 @@
+    body{
+    background:url(https://images.unsplash.com/photo-1560557102-b14bfc6b1988?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDR8cm5TS0RId3dZVWt8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .container.jumbotron{
+    margin-top: 200px;
+    background: orange;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    }
+    table,tr,td,thead,th{
+    border:2px solid white;
+    font-size: 30px;
+    color:white;
+    background:red;
+    margin:auto;
+    }
+
+    thead,th{
+    border:2px solid red;
+    font-size: 30px;
+    color:blue;
+    margin:auto;
+    background:yellow;
+    }
+    h1{
+    text-align: center;
+    }
